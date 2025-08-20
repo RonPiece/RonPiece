@@ -2,9 +2,9 @@
 
 I'm a software enthusiast focused on finding my first job in the industry. I'm actively improving my skills by practicing **LeetCode** and building my own projects.
 
-I'm currently working on a personal **Python** project to **transfer files between iPhones to Windows machines over a local Wi-Fi network**. I'm also learning **Kotlin** and **Android development**.
+I'm currently working on a personal **Python** project to **transfer files between iPhones to Windows machines over a local Wi-Fi network**.
 
-I'm always open to collaborating on interesting projects in **C, C++, C#, Python, and JavaScript**.
+I'm always open to collaborating on interesting projects in **C, C++, C#, Java, Python, and JavaScript**.
 
 ---
 
